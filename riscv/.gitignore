@@ -1,9 +1,0 @@
-*.log
-*.jou  
-*.str
-.Xil/
-build/
-*.wdb
-*.pb
-vivado_pid*.str
-
